@@ -1,0 +1,13 @@
+name: AchiementHunter
+version: 1.0
+api-version: 1.16
+main: me.EthanBilbrey.AchievmentHunter.Main
+author: Ethan Bilbrey
+description: Complete achievments to win!
+commands:
+   ahstart:
+      usage: /<command>
+      description: Starts challenges
+   ahstop:
+      usage: /<command>
+      description: Stops challenges
